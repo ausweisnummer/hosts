@@ -902,7 +902,6 @@
 127.0.0.1 www.hbrowse.com
 127.0.0.1 www.hentaihere.com
 127.0.0.1 hentaihand.com
-127.0.0.1 www.doujins.com
 127.0.0.1 www.fakku.net
 127.0.0.1 comics.8muses.com
 127.0.0.1 www.multporn.net
@@ -6430,6 +6429,7 @@ l27.0.0.1 www.kickass.com
 127.0.0.1 www.bestsexxxporn.com
 127.0.0.1 nhentai.to
 127.0.0.1 3hentai.net
+127.0.0.1 hentai0.com
 
 # [Content Servers]
 127.0.0.1 assets-land-ht.contentdef.com
@@ -7003,6 +7003,31 @@ l27.0.0.1 www.kickass.com
 127.0.0.1 img3.hentaicdn.com
 127.0.0.1 static.hentai.direct
 127.0.0.1 static.hentaicdn.com
+127.0.0.1 static.doujins.com
+127.0.0.1 cdn.onahole.com
+127.0.0.1 i.9hentai.to
+127.0.0.1 m8.hentaiera.com
+127.0.0.1 xfs-n01.xfsbb.com
+127.0.0.1 xfs-n02.xfsbb.com
+127.0.0.1 xfs-n03.xfsbb.com
+127.0.0.1 xfs-n04.xfsbb.com
+127.0.0.1 xfs-n05.xfsbb.com
+127.0.0.1 xfs-n06.xfsbb.com
+127.0.0.1 xfs-n07.xfsbb.com
+127.0.0.1 xfs-n08.xfsbb.com
+127.0.0.1 xfs-n09.xfsbb.com
+127.0.0.1 xfs-n10.xfsbb.com
+127.0.0.1 xfs-n11.xfsbb.com
+127.0.0.1 xfs-n12.xfsbb.com
+127.0.0.1 xfs-n13.xfsbb.com
+127.0.0.1 xfs-n14.xfsbb.com
+127.0.0.1 xfs-n15.xfsbb.com
+127.0.0.1 xfs-n16.xfsbb.com
+127.0.0.1 xfs-n17.xfsbb.com
+127.0.0.1 xfs-n18.xfsbb.com
+127.0.0.1 xfs-n19.xfsbb.com
+127.0.0.1 m1.hentaiforce.net
+127.0.0.1 images2.imgbox.com
 
 # [Live Webcams/Chat]
 127.0.0.1 www.camsfinder.com
@@ -7406,6 +7431,14 @@ l27.0.0.1 www.kickass.com
 127.0.0.1 premium-archive.com
 127.0.0.1 hentairox.com
 127.0.0.1 imhentai.xxx
+127.0.0.1 www.doujins.com
+127.0.0.1 doujins.com
+127.0.0.1 9hentai.to
+127.0.0.1 hentaiera.com
+127.0.0.1 dto.to
+127.0.0.1 hentaiforce.net
+127.0.0.1 pixhentai.com
+127.0.0.1 obohentai.com
 
 # [Alternative access URLs]
 # Includes the localized versions of sites like PornHub and Spankbang. Also some alternative PornHub URLs.
@@ -9706,6 +9739,7 @@ l27.0.0.1 www.kickass.com
 127.0.0.1 www.dusk-magazine.com
 127.0.0.1 amaterky.sk
 127.0.0.1 www.sex-hd.com
+127.0.0.1 www.onahole.com
 
 # [Ad Providers and Networks]
 127.0.0.1 nats.ghostcash.com
