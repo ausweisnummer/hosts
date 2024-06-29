@@ -6931,6 +6931,8 @@ l27.0.0.1 www.kickass.com
 127.0.0.1 www.tubeon.com
 127.0.0.1 m.tubeon.com
 127.0.0.1 bellesaplus.co
+127.0.0.1 japanoporn.com
+127.0.0.1 japanesehdmovies.com
 
 # [Content Servers]
 127.0.0.1 assets-land-ht.contentdef.com
@@ -7774,6 +7776,10 @@ l27.0.0.1 www.kickass.com
 127.0.0.1 e9.tbnpsn.com
 127.0.0.1 ecdn.tubeon.com
 127.0.0.1 cdn.tkvids.com
+127.0.0.1 cdn.japanoporn.com
+127.0.0.1 video3.japanoporn.com
+127.0.0.1 cdn.japanesehdmovies.com
+127.0.0.1 video6.japanesehdmovies.com
 
 # [File Hosting Sites]
 127.0.0.1 www.pornhost.com
