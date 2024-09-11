@@ -16,6 +16,7 @@
 # [Ad Providers and Networks]
 # [Dubious AI products]
 # [Fake Dating-Webcam/Unknown Sites]
+# [IP addresses]
 
 127.0.0.1  localhost
 ::1  localhost
@@ -5250,8 +5251,6 @@ l27.0.0.1 www.kickass.com
 127.0.0.1 www.xxxlucah.com
 127.0.0.1 nunuporn.com
 127.0.0.1 xxxfree.watch
-127.0.0.1 159.89.198.98
-127.0.0.1 128.199.175.251
 127.0.0.1 nesaporn.com
 127.0.0.1 www.kingofcelebs.com
 127.0.0.1 www.bubbaporn.com
@@ -5426,7 +5425,6 @@ l27.0.0.1 www.kickass.com
 127.0.0.1 www.joyporn.me
 127.0.0.1 www.porn200.me
 127.0.0.1 www.pornhg1.me
-127.0.0.1 93.115.61.56
 127.0.0.1 www.wosaoge.pw
 127.0.0.1 www.mofsex.com
 127.0.0.1 www.wholeporn.net
@@ -6379,7 +6377,6 @@ l27.0.0.1 www.kickass.com
 127.0.0.1 dailyporn.club
 127.0.0.1 sexto.mobi
 127.0.0.1 xxx.neti.mobi
-127.0.0.1 167.71.2.22
 127.0.0.1 pornyc.com
 127.0.0.1 www.yapatube.com
 127.0.0.1 in-shemale.xvide.mx
@@ -7203,6 +7200,16 @@ l27.0.0.1 www.kickass.com
 127.0.0.1 ososedki.com
 127.0.0.1 vip.ososedki.com
 127.0.0.1 xxx-sexportal.net
+127.0.0.1 mybokep.link
+127.0.0.1 xxxbp.tv
+127.0.0.1 aagmaal.bond
+127.0.0.1 javynow.com
+127.0.0.1 porn.se
+127.0.0.1 xnxxcom.xyz
+127.0.0.1 sexvideos.fyi
+127.0.0.1 www.xxxxpornvideo.net
+127.0.0.1 sexbjcam.com
+127.0.0.1 pornavhd.com
 
 # [Content Servers]
 127.0.0.1 assets-land-ht.contentdef.com
@@ -8211,6 +8218,18 @@ l27.0.0.1 www.kickass.com
 127.0.0.1 img.yespornplease.sexy
 127.0.0.1 bg-2.thorcdn.com
 127.0.0.1 cdn2.ixifile.xyz
+127.0.0.1 cdn77-pic.others-cdn.com
+127.0.0.1 cdn77-vid-mp4.others-cdn.com
+127.0.0.1 thumbs2.xxxbp.tv
+127.0.0.1 c8809d18aa.mjedge.net
+127.0.0.1 img.javynow.com
+127.0.0.1 media3.javynow.com
+127.0.0.1 media4.javynow.com
+127.0.0.1 media5.javynow.com
+127.0.0.1 media6.javynow.com
+127.0.0.1 media.porn.se
+127.0.0.1 video.porn.se
+127.0.0.1 edge-461199.u22577.eu.awmcdn.net
 
 # [File Hosting Sites]
 127.0.0.1 www.pornhost.com
@@ -8351,6 +8370,7 @@ l27.0.0.1 www.kickass.com
 127.0.0.1 tubevid.site
 127.0.0.1 ixifile.xyz
 127.0.0.1 koreanporn.stream
+127.0.0.1 playrecord.biz
 
 # [Live Webcams/Chat]
 127.0.0.1 www.camsfinder.com
@@ -8725,6 +8745,8 @@ l27.0.0.1 www.kickass.com
 127.0.0.1 chatsex.xxx
 127.0.0.1 everycamgirl.com
 127.0.0.1 www.xxxchatlive.com
+127.0.0.1 bulecams.com
+127.0.0.1 herecams.com
 
 # [Sex Stories/Readings/Manga Websites]
 127.0.0.1 www.indiansexstories2.net
@@ -8910,6 +8932,7 @@ l27.0.0.1 www.kickass.com
 127.0.0.1 pt.ballbustingtube.com
 127.0.0.1 nl.ballbustingtube.com
 127.0.0.1 fr.xvideos.com
+127.0.0.1 de.xvideos.com
 127.0.0.1 de.youporn.com
 127.0.0.1 es.youporn.com
 127.0.0.1 fr.youporn.com
@@ -11537,6 +11560,8 @@ l27.0.0.1 www.kickass.com
 127.0.0.1 www.exploitedteensasia.com
 127.0.0.1 fetishnetwork.com
 127.0.0.1 fetishwealth.com
+127.0.0.1 yourlady.in
+127.0.0.1 localdate.in
 
 # [Dubious AI products]
 127.0.0.1 undress-ai.app
@@ -11624,3 +11649,16 @@ l27.0.0.1 www.kickass.com
 127.0.0.1 sex-girls.simadelascotorras.com
 127.0.0.1 sext4bang.com
 127.0.0.1 magneticwomen438u.com
+127.0.0.1 mc0pmr8.justmycamsplay.one
+127.0.0.1 mc0pmr8.superadultgame.life
+127.0.0.1 mc0pmr8.hotheartdates.life
+
+# [IP addresses]
+# These ones also lead you to porn sites but they can't be blocked with a hosts file, sadly.
+# I'm keeping them listed here for the sake of not loosing track of them. 
+# The best bet is to block the servers they get their contents from.
+# 127.0.0.1 159.89.198.98
+# 127.0.0.1 128.199.175.251
+# 127.0.0.1 93.115.61.56
+# 127.0.0.1 167.71.2.22
+# 127.0.0.1 209.97.171.113
