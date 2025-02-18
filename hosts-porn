@@ -8,7 +8,7 @@
 # [Sex Stories/Readings/Manga Websites]
 # [Alternative access URLs]
 # [Porn Games Sites]
-# [Social Networks/Wikimedia]
+# [Social Media, Streaming Platforms and Wikipedia]
 # [Forums]
 # [Multimedia]
 # [Blogs]
@@ -11480,8 +11480,8 @@ l27.0.0.1 www.kickass.com
 127.0.0.1 www.porngames.tv
 127.0.0.1 hentaigo.com
 
-# [Social Networks/Wikimedia]
-# Known social networks are also blocked as I can't manage the sexual content available in these pages.
+# [Social Media, Streaming Platforms and Wikipedia]
+# I can't do much about the sexual content available in these pages so it's best to just block them.
 127.0.0.1 www.instagram.com
 127.0.0.1 twitter.com
 127.0.0.1 mobile.twitter.com
@@ -11495,6 +11495,7 @@ l27.0.0.1 www.kickass.com
 127.0.0.1 vk.com
 127.0.0.1 m.vk.com
 127.0.0.1 v.redd.it
+127.0.0.1 www.bilibili.tv
 
 # [Forums]
 # Includes sites like 4Chan, Reddit and some other porn forums, boards, etc out there.
