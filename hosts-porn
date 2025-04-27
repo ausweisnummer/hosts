@@ -8,7 +8,6 @@
 # [Sex Stories/Readings/Manga Websites]
 # [Alternative access URLs]
 # [Porn Games Sites]
-# [Social Media, Streaming Platforms and Wikipedia]
 # [Forums]
 # [Multimedia]
 # [Blogs]
@@ -17,6 +16,7 @@
 # [Dubious AI products]
 # [Fake Dating-Webcam/Unknown Sites]
 # [IP addresses]
+# [Non-porn Websites]
 
 127.0.0.1  localhost
 ::1  localhost
@@ -7836,6 +7836,17 @@ l27.0.0.1 www.kickass.com
 127.0.0.1 www.vrxxx.com
 127.0.0.1 www.xxxmilfs.com
 127.0.0.1 www.tubeporn.com
+127.0.0.1 171gifs.com
+127.0.0.1 hotmilfsfuck.com
+127.0.0.1 join.hotmilfsfuck.com
+127.0.0.1 www.gothgirlfriends.com
+127.0.0.1 join.gothgirlfriends.com
+127.0.0.1 upskirtjerk.com
+127.0.0.1 realbikinigirls.com
+127.0.0.1 lingerietales.com
+127.0.0.1 boppingbabes.com
+127.0.0.1 wankitnow.com
+127.0.0.1 downblousejerk.com
 
 # [Content Servers]
 127.0.0.1 assets-land-ht.contentdef.com
@@ -8944,6 +8955,14 @@ l27.0.0.1 www.kickass.com
 127.0.0.1 static.pornoleon.com
 127.0.0.1 ovhv41.twincdn.com
 127.0.0.1 evocdn.net
+127.0.0.1 images1.naughtycdn.com
+127.0.0.1 images2.naughtycdn.com
+127.0.0.1 images3.naughtycdn.com
+127.0.0.1 images4.naughtycdn.com
+127.0.0.1 images5.naughtycdn.com
+127.0.0.1 assets.spizoo.com
+127.0.0.1 contentsmall.gothgirlfriends.com
+127.0.0.1 c7476f3cb0.mjedge.net
 
 # [File Hosting Sites]
 127.0.0.1 www.pornhost.com
@@ -11784,49 +11803,7 @@ l27.0.0.1 www.kickass.com
 127.0.0.1 lustyheroes.com
 127.0.0.1 xh.lustyheroes.com
 127.0.0.1 porntal.games
-
-# [Social Media, Streaming Platforms and Wikipedia]
-# I can't do much about the sexual content available in these pages so it's best to just block them.
-127.0.0.1 www.instagram.com
-127.0.0.1 twitter.com
-127.0.0.1 mobile.twitter.com
-127.0.0.1 www.reddit.com
-127.0.0.1 www.facebook.com
-127.0.0.1 m.facebook.com
-127.0.0.1 commons.wikimedia.org
-127.0.0.1 commons.m.wikimedia.org
-127.0.0.1 upload.wikimedia.org
-127.0.0.1 sharesome.com
-127.0.0.1 vk.com
-127.0.0.1 m.vk.com
-127.0.0.1 v.redd.it
-127.0.0.1 www.bilibili.tv
-127.0.0.1 www.quora.com
-127.0.0.1 es.quora.com
-127.0.0.1 fr.quora.com
-127.0.0.1 de.quora.com
-127.0.0.1 it.quora.com
-127.0.0.1 jp.quora.com
-127.0.0.1 id.quora.com
-127.0.0.1 pt.quora.com
-127.0.0.1 hi.quora.com
-127.0.0.1 nl.quora.com
-127.0.0.1 da.quora.com
-127.0.0.1 fi.quora.com
-127.0.0.1 no.quora.com
-127.0.0.1 sv.quora.com
-127.0.0.1 mr.quora.com
-127.0.0.1 bn.quora.com
-127.0.0.1 ta.quora.com
-127.0.0.1 ar.quora.com
-127.0.0.1 he.quora.com
-127.0.0.1 gu.quora.com
-127.0.0.1 kn.quora.com
-127.0.0.1 ml.quora.com
-127.0.0.1 te.quora.com
-127.0.0.1 pl.quora.com
-127.0.0.1 qph.cf2.quoracdn.net
-127.0.0.1 www.glamino.com
+127.0.0.1 www.loverslab.com
 
 # [Forums]
 # Includes sites like 4Chan, Reddit and some other porn forums, boards, etc out there.
@@ -12859,6 +12836,7 @@ l27.0.0.1 www.kickass.com
 127.0.0.1 nookies.com
 127.0.0.1 trafficstars.com
 127.0.0.1 tubetraffic.com
+127.0.0.1 nats.realityrev.com
 
 # [Dubious AI products]
 127.0.0.1 undress-ai.app
@@ -12983,3 +12961,47 @@ l27.0.0.1 www.kickass.com
 # 127.0.0.1 167.71.2.22
 # 127.0.0.1 209.97.171.113
 # 127.0.0.1 178.128.25.172
+
+# [Non-porn Websites]
+# I can't do much about the sexual content available in these pages so it's best to just block them.
+127.0.0.1 www.instagram.com
+127.0.0.1 twitter.com
+127.0.0.1 mobile.twitter.com
+127.0.0.1 www.reddit.com
+127.0.0.1 www.facebook.com
+127.0.0.1 m.facebook.com
+127.0.0.1 commons.wikimedia.org
+127.0.0.1 commons.m.wikimedia.org
+127.0.0.1 upload.wikimedia.org
+127.0.0.1 sharesome.com
+127.0.0.1 vk.com
+127.0.0.1 m.vk.com
+127.0.0.1 v.redd.it
+127.0.0.1 www.bilibili.tv
+127.0.0.1 www.quora.com
+127.0.0.1 es.quora.com
+127.0.0.1 fr.quora.com
+127.0.0.1 de.quora.com
+127.0.0.1 it.quora.com
+127.0.0.1 jp.quora.com
+127.0.0.1 id.quora.com
+127.0.0.1 pt.quora.com
+127.0.0.1 hi.quora.com
+127.0.0.1 nl.quora.com
+127.0.0.1 da.quora.com
+127.0.0.1 fi.quora.com
+127.0.0.1 no.quora.com
+127.0.0.1 sv.quora.com
+127.0.0.1 mr.quora.com
+127.0.0.1 bn.quora.com
+127.0.0.1 ta.quora.com
+127.0.0.1 ar.quora.com
+127.0.0.1 he.quora.com
+127.0.0.1 gu.quora.com
+127.0.0.1 kn.quora.com
+127.0.0.1 ml.quora.com
+127.0.0.1 te.quora.com
+127.0.0.1 pl.quora.com
+127.0.0.1 qph.cf2.quoracdn.net
+127.0.0.1 www.glamino.com
+127.0.0.1 wastickers.me
