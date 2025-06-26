@@ -8970,6 +8970,8 @@ l27.0.0.1 www.kickass.com
 127.0.0.1 i3.sigmapic.com
 127.0.0.1 i4.sigmapic.com
 127.0.0.1 cdn.henvids.com
+127.0.0.1 media.manhuabuddy.com
+127.0.0.1 cdn.manhuabuddy.com
 
 # [File Hosting Sites]
 127.0.0.1 www.pornhost.com
@@ -9756,6 +9758,9 @@ l27.0.0.1 www.kickass.com
 127.0.0.1 www.xxxtoonpic.com
 127.0.0.1 www.cartoonporn.pics
 127.0.0.1 www.comicsporn.pro
+127.0.0.1 superecchi.com
+127.0.0.1 manhuabuddy.com
+127.0.0.1 mangashentaiz.com
 
 # [Alternative access URLs]
 # Includes the localized versions of sites like PornHub and Spankbang. Also some alternative PornHub URLs.
