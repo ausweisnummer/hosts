@@ -1,4 +1,5 @@
 # Categories listed on the filter by order:
+# [Forced SafeSearch for search engines]
 # [Porn Databases, Discount, Review, and Free accounts Sites]
 # [Porn Search Engines and Pornstar Databases]
 # [Common Sites]
@@ -20,6 +21,231 @@
 
 127.0.0.1  localhost
 ::1  localhost
+
+# [Forced SafeSearch for search engines]
+# Search engines affected: Google, Bing, DuckDuckGo, Brave Search, Yandex, Ecosia and StartPage.
+# Thumbnails and that sort of stuff are also blocked for DuckDuckGo, Qwant, and Yahoo Search through the "Non-porn Websites" section.
+216.239.38.120 google.com www.google.com
+216.239.38.120 google.ad www.google.ad
+216.239.38.120 google.ae www.google.ae
+216.239.38.120 google.com.af www.google.com.af
+216.239.38.120 google.com.ag www.google.com.ag
+216.239.38.120 google.com.ai www.google.com.ai
+216.239.38.120 google.al www.google.al
+216.239.38.120 google.am www.google.am
+216.239.38.120 google.co.ao www.google.co.ao
+216.239.38.120 google.com.ar www.google.com.ar
+216.239.38.120 google.as www.google.as
+216.239.38.120 google.at www.google.at
+216.239.38.120 google.com.au www.google.com.au
+216.239.38.120 google.az www.google.az
+216.239.38.120 google.ba www.google.ba
+216.239.38.120 google.com.bd www.google.com.bd
+216.239.38.120 google.be www.google.be
+216.239.38.120 google.bf www.google.bf
+216.239.38.120 google.bg www.google.bg
+216.239.38.120 google.com.bh www.google.com.bh
+216.239.38.120 google.bi www.google.bi
+216.239.38.120 google.bj www.google.bj
+216.239.38.120 google.com.bn www.google.com.bn
+216.239.38.120 google.com.bo www.google.com.bo
+216.239.38.120 google.com.br www.google.com.br
+216.239.38.120 google.bs www.google.bs
+216.239.38.120 google.bt www.google.bt
+216.239.38.120 google.co.bw www.google.co.bw
+216.239.38.120 google.by www.google.by
+216.239.38.120 google.com.bz www.google.com.bz
+216.239.38.120 google.ca www.google.ca
+216.239.38.120 google.cd www.google.cd
+216.239.38.120 google.cf www.google.cf
+216.239.38.120 google.cg www.google.cg
+216.239.38.120 google.ch www.google.ch
+216.239.38.120 google.ci www.google.ci
+216.239.38.120 google.co.ck www.google.co.ck
+216.239.38.120 google.cl www.google.cl
+216.239.38.120 google.cm www.google.cm
+216.239.38.120 google.cn www.google.cn
+216.239.38.120 google.com.co www.google.com.co
+216.239.38.120 google.co.cr www.google.co.cr
+216.239.38.120 google.com.cu www.google.com.cu
+216.239.38.120 google.cv www.google.cv
+216.239.38.120 google.com.cy www.google.com.cy
+216.239.38.120 google.cz www.google.cz
+216.239.38.120 google.de www.google.de
+216.239.38.120 google.dj www.google.dj
+216.239.38.120 google.dk www.google.dk
+216.239.38.120 google.dm www.google.dm
+216.239.38.120 google.com.do www.google.com.do
+216.239.38.120 google.dz www.google.dz
+216.239.38.120 google.com.ec www.google.com.ec
+216.239.38.120 google.ee www.google.ee
+216.239.38.120 google.com.eg www.google.com.eg
+216.239.38.120 google.es www.google.es
+216.239.38.120 google.com.et www.google.com.et
+216.239.38.120 google.fi www.google.fi
+216.239.38.120 google.com.fj www.google.com.fj
+216.239.38.120 google.fm www.google.fm
+216.239.38.120 google.fr www.google.fr
+216.239.38.120 google.ga www.google.ga
+216.239.38.120 google.ge www.google.ge
+216.239.38.120 google.gg www.google.gg
+216.239.38.120 google.com.gh www.google.com.gh
+216.239.38.120 google.com.gi www.google.com.gi
+216.239.38.120 google.gl www.google.gl
+216.239.38.120 google.gm www.google.gm
+216.239.38.120 google.gp www.google.gp
+216.239.38.120 google.gr www.google.gr
+216.239.38.120 google.com.gt www.google.com.gt
+216.239.38.120 google.gy www.google.gy
+216.239.38.120 google.com.hk www.google.com.hk
+216.239.38.120 google.hn www.google.hn
+216.239.38.120 google.hr www.google.hr
+216.239.38.120 google.ht www.google.ht
+216.239.38.120 google.hu www.google.hu
+216.239.38.120 google.co.id www.google.co.id
+216.239.38.120 google.ie www.google.ie
+216.239.38.120 google.co.il www.google.co.il
+216.239.38.120 google.im www.google.im
+216.239.38.120 google.co.in www.google.co.in
+216.239.38.120 google.iq www.google.iq
+216.239.38.120 google.is www.google.is
+216.239.38.120 google.it www.google.it
+216.239.38.120 google.je www.google.je
+216.239.38.120 google.com.jm www.google.com.jm
+216.239.38.120 google.jo www.google.jo
+216.239.38.120 google.co.jp www.google.co.jp
+216.239.38.120 google.co.ke www.google.co.ke
+216.239.38.120 google.com.kh www.google.com.kh
+216.239.38.120 google.ki www.google.ki
+216.239.38.120 google.kg www.google.kg
+216.239.38.120 google.co.kr www.google.co.kr
+216.239.38.120 google.com.kw www.google.com.kw
+216.239.38.120 google.kz www.google.kz
+216.239.38.120 google.la www.google.la
+216.239.38.120 google.com.lb www.google.com.lb
+216.239.38.120 google.li www.google.li
+216.239.38.120 google.lk www.google.lk
+216.239.38.120 google.co.ls www.google.co.ls
+216.239.38.120 google.lt www.google.lt
+216.239.38.120 google.lu www.google.lu
+216.239.38.120 google.lv www.google.lv
+216.239.38.120 google.com.ly www.google.com.ly
+216.239.38.120 google.co.ma www.google.co.ma
+216.239.38.120 google.md www.google.md
+216.239.38.120 google.me www.google.me
+216.239.38.120 google.mg www.google.mg
+216.239.38.120 google.mk www.google.mk
+216.239.38.120 google.ml www.google.ml
+216.239.38.120 google.com.mm www.google.com.mm
+216.239.38.120 google.mn www.google.mn
+216.239.38.120 google.ms www.google.ms
+216.239.38.120 google.com.mt www.google.com.mt
+216.239.38.120 google.mu www.google.mu
+216.239.38.120 google.mv www.google.mv
+216.239.38.120 google.mw www.google.mw
+216.239.38.120 google.com.mx www.google.com.mx
+216.239.38.120 google.com.my www.google.com.my
+216.239.38.120 google.co.mz www.google.co.mz
+216.239.38.120 google.com.na www.google.com.na
+216.239.38.120 google.com.nf www.google.com.nf
+216.239.38.120 google.com.ng www.google.com.ng
+216.239.38.120 google.com.ni www.google.com.ni
+216.239.38.120 google.ne www.google.ne
+216.239.38.120 google.nl www.google.nl
+216.239.38.120 google.no www.google.no
+216.239.38.120 google.com.np www.google.com.np
+216.239.38.120 google.nr www.google.nr
+216.239.38.120 google.nu www.google.nu
+216.239.38.120 google.co.nz www.google.co.nz
+216.239.38.120 google.com.om www.google.com.om
+216.239.38.120 google.com.pa www.google.com.pa
+216.239.38.120 google.com.pe www.google.com.pe
+216.239.38.120 google.com.pg www.google.com.pg
+216.239.38.120 google.com.ph www.google.com.ph
+216.239.38.120 google.com.pk www.google.com.pk
+216.239.38.120 google.pl www.google.pl
+216.239.38.120 google.pn www.google.pn
+216.239.38.120 google.com.pr www.google.com.pr
+216.239.38.120 google.ps www.google.ps
+216.239.38.120 google.pt www.google.pt
+216.239.38.120 google.com.py www.google.com.py
+216.239.38.120 google.com.qa www.google.com.qa
+216.239.38.120 google.ro www.google.ro
+216.239.38.120 google.ru www.google.ru
+216.239.38.120 google.rw www.google.rw
+216.239.38.120 google.com.sa www.google.com.sa
+216.239.38.120 google.com.sb www.google.com.sb
+216.239.38.120 google.sc www.google.sc
+216.239.38.120 google.se www.google.se
+216.239.38.120 google.com.sg www.google.com.sg
+216.239.38.120 google.sh www.google.sh
+216.239.38.120 google.si www.google.si
+216.239.38.120 google.sk www.google.sk
+216.239.38.120 google.com.sl www.google.com.sl
+216.239.38.120 google.sn www.google.sn
+216.239.38.120 google.so www.google.so
+216.239.38.120 google.sm www.google.sm
+216.239.38.120 google.sr www.google.sr
+216.239.38.120 google.st www.google.st
+216.239.38.120 google.com.sv www.google.com.sv
+216.239.38.120 google.td www.google.td
+216.239.38.120 google.tg www.google.tg
+216.239.38.120 google.co.th www.google.co.th
+216.239.38.120 google.com.tj www.google.com.tj
+216.239.38.120 google.tk www.google.tk
+216.239.38.120 google.tl www.google.tl
+216.239.38.120 google.tm www.google.tm
+216.239.38.120 google.tn www.google.tn
+216.239.38.120 google.to www.google.to
+216.239.38.120 google.com.tr www.google.com.tr
+216.239.38.120 google.tt www.google.tt
+216.239.38.120 google.com.tw www.google.com.tw
+216.239.38.120 google.co.tz www.google.co.tz
+216.239.38.120 google.com.ua www.google.com.ua
+216.239.38.120 google.co.ug www.google.co.ug
+216.239.38.120 google.co.uk www.google.co.uk
+216.239.38.120 google.com.uy www.google.com.uy
+216.239.38.120 google.co.uz www.google.co.uz
+216.239.38.120 google.com.vc www.google.com.vc
+216.239.38.120 google.co.ve www.google.co.ve
+216.239.38.120 google.vg www.google.vg
+216.239.38.120 google.co.vi www.google.co.vi
+216.239.38.120 google.com.vn www.google.com.vn
+216.239.38.120 google.vu www.google.vu
+216.239.38.120 google.ws www.google.ws
+216.239.38.120 google.rs www.google.rs
+216.239.38.120 google.co.za www.google.co.za
+216.239.38.120 google.co.zm www.google.co.zm
+216.239.38.120 google.co.zw www.google.co.zw
+216.239.38.120 google.cat www.google.cat
+204.79.197.220 bing.com www.bing.com
+204.79.197.220 www2.bing.com
+204.79.197.220 www3.bing.com
+191.235.126.53 duckduckgo.com
+3.160.90.8 search.brave.com
+213.180.193.56 yandex.az
+213.180.193.56 yandex.by
+213.180.193.56 yandex.co.il
+213.180.193.56 yandex.com
+213.180.193.56 yandex.com.am
+213.180.193.56 yandex.com.ge
+213.180.193.56 yandex.com.tr
+213.180.193.56 yandex.de
+213.180.193.56 yandex.ee
+213.180.193.56 yandex.fr
+213.180.193.56 yandex.kz
+213.180.193.56 yandex.lt
+213.180.193.56 yandex.lv
+213.180.193.56 yandex.md
+213.180.193.56 yandex.net
+213.180.193.56 yandex.org
+213.180.193.56 yandex.ru
+213.180.193.56 yandex.tj
+213.180.193.56 yandex.tm
+213.180.193.56 yandex.tr
+213.180.193.56 yandex.uz
+140.99.233.1 www.ecosia.org
+67.63.61.130 www.startpage.com
 
 # [Porn Databases, Discount, Review, and Free accounts Sites]
 # This is where you would go if you look for a list of sites.
@@ -7898,10 +8124,6 @@ l27.0.0.1 www.kickass.com
 127.0.0.1 cumguru.com
 127.0.0.1 allasianpics.com
 127.0.0.1 goblinstube.com
-127.0.0.1 rule34.art
-127.0.0.1 lawpctip.weebly.com
-127.0.0.1 indialasem.weebly.com
-127.0.0.1 sadebahouse.weebly.com
 
 # [Content Servers]
 127.0.0.1 assets-land-ht.contentdef.com
@@ -13039,7 +13261,6 @@ l27.0.0.1 www.kickass.com
 127.0.0.1 thedirtydates.com
 127.0.0.1 susi.live
 127.0.0.1 start.amateurcommunity.com
-127.0.0.1 hent-05.blogspot.com
 
 # [IP addresses]
 # These ones also lead you to porn sites but they can't be blocked with a hosts file, sadly.
@@ -13064,6 +13285,11 @@ l27.0.0.1 www.kickass.com
 127.0.0.1 commons.wikimedia.org
 127.0.0.1 commons.m.wikimedia.org
 127.0.0.1 upload.wikimedia.org
+127.0.0.1 images.search.yahoo.com
+127.0.0.1 video.search.yahoo.com
+127.0.0.1 external-content.duckduckgo.com
+127.0.0.1 s1.qwant.com
+127.0.0.1 s2.qwant.com
 127.0.0.1 sharesome.com
 127.0.0.1 vk.com
 127.0.0.1 m.vk.com
