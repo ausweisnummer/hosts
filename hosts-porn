@@ -23,8 +23,9 @@
 ::1  localhost
 
 # [Forced SafeSearch for search engines]
-# Search engines affected: Google, Bing, DuckDuckGo, Brave Search, Yandex, Ecosia and StartPage.
-# Thumbnails and that sort of stuff are also blocked for DuckDuckGo, Qwant, and Yahoo Search through the "Non-porn Websites" section.
+# * Search engines affected: Brave Search, Bing, DuckDuckGo, Ecosia, Google, StartPage and Yandex.
+# * Thumbnails and that sort of stuff are also blocked for Brave Search, DuckDuckGo, Qwant and
+#   Yahoo Search through the "Non-porn Websites" section.
 216.239.38.120 google.com www.google.com
 216.239.38.120 google.ad www.google.ad
 216.239.38.120 google.ae www.google.ae
@@ -9250,6 +9251,7 @@ l27.0.0.1 www.kickass.com
 127.0.0.1 stockage.manga-scantrad.net
 127.0.0.1 stmedia.manhwato.com
 127.0.0.1 stcdn.manhwato.com
+127.0.0.1 cdn.toongod.org
 
 # [File Hosting Sites]
 127.0.0.1 www.pornhost.com
@@ -10043,6 +10045,10 @@ l27.0.0.1 www.kickass.com
 127.0.0.1 desuhentai.net
 127.0.0.1 coolmic.me
 127.0.0.1 manhwato.com
+127.0.0.1 lerhentai.tk
+127.0.0.1 sexkomix2.com
+127.0.0.1 hentai-manga.io
+127.0.0.1 www.toongod.org
 
 # [Alternative access URLs]
 # Includes the localized versions of sites like PornHub and Spankbang. Also some alternative PornHub URLs.
@@ -12197,6 +12203,7 @@ l27.0.0.1 www.kickass.com
 127.0.0.1 www.akiba-online.com
 127.0.0.1 www.lpsg.com
 127.0.0.1 www.bdsmcouples.com
+127.0.0.1 www.anime-sharing.com
 
 # [Multimedia]
 # Includes gallery sites and some standalone GIFs and photos.
@@ -12922,6 +12929,7 @@ l27.0.0.1 www.kickass.com
 127.0.0.1 xhamsternft.com
 127.0.0.1 www.liliweb.com
 127.0.0.1 doujinrepublic.com
+127.0.0.1 jilist.com
 
 # [Ad Providers and Networks]
 127.0.0.1 nats.ghostcash.com
@@ -13288,6 +13296,7 @@ l27.0.0.1 www.kickass.com
 127.0.0.1 images.search.yahoo.com
 127.0.0.1 video.search.yahoo.com
 127.0.0.1 external-content.duckduckgo.com
+127.0.0.1 imgs.search.brave.com
 127.0.0.1 s1.qwant.com
 127.0.0.1 s2.qwant.com
 127.0.0.1 sharesome.com
@@ -13325,5 +13334,6 @@ l27.0.0.1 www.kickass.com
 127.0.0.1 makeagif.com
 127.0.0.1 mangadex.org
 127.0.0.1 www.mangaread.org
+127.0.0.1 mangapark.net
 127.0.0.1 zoronime.com
 127.0.0.1 9animetv.to
