@@ -8125,6 +8125,8 @@ l27.0.0.1 www.kickass.com
 127.0.0.1 cumguru.com
 127.0.0.1 allasianpics.com
 127.0.0.1 goblinstube.com
+127.0.0.1 hentaijl.com
+127.0.0.1 mandrahentai.com
 
 # [Content Servers]
 127.0.0.1 assets-land-ht.contentdef.com
@@ -10049,6 +10051,9 @@ l27.0.0.1 www.kickass.com
 127.0.0.1 sexkomix2.com
 127.0.0.1 hentai-manga.io
 127.0.0.1 www.toongod.org
+127.0.0.1 www.manhwaweb.com
+127.0.0.1 hentaihall.com
+127.0.0.1 novelaocs.top
 
 # [Alternative access URLs]
 # Includes the localized versions of sites like PornHub and Spankbang. Also some alternative PornHub URLs.
@@ -13283,6 +13288,60 @@ l27.0.0.1 www.kickass.com
 
 # [Non-porn Websites]
 # I can't do much about the sexual content available in these pages so it's best to just block them.
+
+### Anime Websites
+127.0.0.1 zoronime.com
+127.0.0.1 9animetv.to
+127.0.0.1 www3.animeflv.net
+127.0.0.1 animeflv.net
+127.0.0.1 m.animeflv.net
+127.0.0.1 ww3.animeonline.ninja
+127.0.0.1 jkanime.net
+127.0.0.1 tioanime.com
+127.0.0.1 anime3rb.com
+127.0.0.1 www1.otakustv.com
+127.0.0.1 animesonlinecc.to
+127.0.0.1 vww.animeflv.one
+127.0.0.1 ogladajanime.pl
+127.0.0.1 www.anime-jl.net
+127.0.0.1 rivanimation.com
+127.0.0.1 descargaranimes.net
+127.0.0.1 veranimeonline.to
+
+### Blogs
+127.0.0.1 anime-jl.com
+127.0.0.1 anime-jl.top
+
+### Manga Websites
+127.0.0.1 mangadex.org
+127.0.0.1 www.mangaread.org
+127.0.0.1 mangapark.net
+127.0.0.1 novelcool.com
+127.0.0.1 es.novelcool.com
+127.0.0.1 br.novelcool.com
+127.0.0.1 it.novelcool.com
+127.0.0.1 ru.novelcool.com
+127.0.0.1 de.novelcool.com
+127.0.0.1 fr.novelcool.com
+
+### Others
+127.0.0.1 commons.wikimedia.org
+127.0.0.1 commons.m.wikimedia.org
+127.0.0.1 upload.wikimedia.org
+127.0.0.1 archive.org
+127.0.0.1 www.glamino.com
+127.0.0.1 wastickers.me
+127.0.0.1 makeagif.com
+
+### Search Engines
+127.0.0.1 images.search.yahoo.com
+127.0.0.1 video.search.yahoo.com
+127.0.0.1 external-content.duckduckgo.com
+127.0.0.1 imgs.search.brave.com
+127.0.0.1 s1.qwant.com
+127.0.0.1 s2.qwant.com
+
+### Social Networks
 127.0.0.1 www.instagram.com
 127.0.0.1 twitter.com
 127.0.0.1 mobile.twitter.com
@@ -13290,20 +13349,7 @@ l27.0.0.1 www.kickass.com
 127.0.0.1 www.reddit.com
 127.0.0.1 www.facebook.com
 127.0.0.1 m.facebook.com
-127.0.0.1 commons.wikimedia.org
-127.0.0.1 commons.m.wikimedia.org
-127.0.0.1 upload.wikimedia.org
-127.0.0.1 images.search.yahoo.com
-127.0.0.1 video.search.yahoo.com
-127.0.0.1 external-content.duckduckgo.com
-127.0.0.1 imgs.search.brave.com
-127.0.0.1 s1.qwant.com
-127.0.0.1 s2.qwant.com
-127.0.0.1 sharesome.com
-127.0.0.1 vk.com
-127.0.0.1 m.vk.com
 127.0.0.1 v.redd.it
-127.0.0.1 www.bilibili.tv
 127.0.0.1 www.quora.com
 127.0.0.1 es.quora.com
 127.0.0.1 fr.quora.com
@@ -13329,11 +13375,10 @@ l27.0.0.1 www.kickass.com
 127.0.0.1 te.quora.com
 127.0.0.1 pl.quora.com
 127.0.0.1 qph.cf2.quoracdn.net
-127.0.0.1 www.glamino.com
-127.0.0.1 wastickers.me
-127.0.0.1 makeagif.com
-127.0.0.1 mangadex.org
-127.0.0.1 www.mangaread.org
-127.0.0.1 mangapark.net
-127.0.0.1 zoronime.com
-127.0.0.1 9animetv.to
+
+### Video Platforms
+127.0.0.1 sharesome.com
+127.0.0.1 vk.com
+127.0.0.1 m.vk.com
+127.0.0.1 www.bilibili.tv
+127.0.0.1 www.dailymotion.com
