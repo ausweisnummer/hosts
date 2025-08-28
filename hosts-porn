@@ -8138,6 +8138,7 @@ l27.0.0.1 www.kickass.com
 127.0.0.1 buondua.com
 127.0.0.1 www.baobua.net
 127.0.0.1 coomer.st
+127.0.0.1 7a.meitu1.mom
 127.0.0.1 b.benmao66.sbs
 127.0.0.1 pmatehunter.com
 127.0.0.1 schale.network
@@ -10101,6 +10102,10 @@ l27.0.0.1 www.kickass.com
 127.0.0.1 solarmtl.com
 127.0.0.1 toomics.com
 127.0.0.1 global.toomics.com
+127.0.0.1 sakuramanhwa.com
+127.0.0.1 api.sakuramanhwa.com
+127.0.0.1 mangacrazy.net
+127.0.0.1 leemiau.com
 
 # [Alternative access URLs]
 # Includes the localized versions of sites like PornHub and Spankbang. Also some alternative PornHub URLs.
@@ -13429,6 +13434,7 @@ l27.0.0.1 www.kickass.com
 127.0.0.1 mangareader.to
 127.0.0.1 snowmtl.ru
 127.0.0.1 www.tappytoon.com
+127.0.0.1 myreadingmanga.info
 
 ### Others
 127.0.0.1 commons.wikimedia.org
