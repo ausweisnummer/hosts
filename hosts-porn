@@ -9995,6 +9995,7 @@ l27.0.0.1 www.kickass.com
 127.0.0.1 hentaimanga.me
 127.0.0.1 manytoon.com
 127.0.0.1 manytoon.org
+127.0.0.1 manytoon.me
 127.0.0.1 multiporn.me
 127.0.0.1 aihentai.me
 127.0.0.1 hanime.mobi
@@ -10020,6 +10021,7 @@ l27.0.0.1 www.kickass.com
 127.0.0.1 manga18fx.com
 127.0.0.1 sexadultcomics.com
 127.0.0.1 manhwa18.net
+127.0.0.1 toonily.com
 127.0.0.1 toonily.me
 127.0.0.1 x-manga.net
 127.0.0.1 yaoimangaonline.com
@@ -10107,6 +10109,8 @@ l27.0.0.1 www.kickass.com
 127.0.0.1 mangacrazy.net
 127.0.0.1 leemiau.com
 127.0.0.1 dynasty-scans.com
+127.0.0.1 mi2manga.com
+127.0.0.1 manhwabl.com
 
 # [Alternative access URLs]
 # Includes the localized versions of sites like PornHub and Spankbang. Also some alternative PornHub URLs.
@@ -11917,6 +11921,12 @@ l27.0.0.1 www.kickass.com
 127.0.0.1 zh-cn.manytoon.org
 127.0.0.1 zh-tw.manytoon.org
 127.0.0.1 zu.manytoon.org
+127.0.0.1 de.manytoon.me
+127.0.0.1 es.manytoon.me
+127.0.0.1 fr.manytoon.me
+127.0.0.1 mi.manytoon.me
+127.0.0.1 pt.manytoon.me
+127.0.0.1 ru.manytoon.me
 127.0.0.1 de.perfektdamen.co
 127.0.0.1 fr.perfektdamen.co
 127.0.0.1 it.perfektdamen.co
