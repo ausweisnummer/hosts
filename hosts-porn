@@ -9870,6 +9870,7 @@ l27.0.0.1 www.kickass.com
 127.0.0.1 stmedia.manhwato.com
 127.0.0.1 stcdn.manhwato.com
 127.0.0.1 cdn.toongod.org
+127.0.0.1 image.cdn2.seaart.me
 
 # [File Hosting Sites]
 127.0.0.1 www.pornhost.com
@@ -13879,6 +13880,7 @@ l27.0.0.1 www.kickass.com
 127.0.0.1 www.nsfwlover.com
 127.0.0.1 lovescape.com
 127.0.0.1 golove.ai
+127.0.0.1 seaart.ai
 
 # [Fake Dating-Webcam/Unknown Sites]
 # This kind of sites may contain viruses so blocking them is a good idea.
@@ -14051,6 +14053,7 @@ l27.0.0.1 www.kickass.com
 127.0.0.1 wastickers.me
 127.0.0.1 makeagif.com
 127.0.0.1 www.pixiv.net
+127.0.0.1 ameblo.jp
 
 ### Search Engines
 127.0.0.1 images.search.yahoo.com
@@ -14060,6 +14063,8 @@ l27.0.0.1 www.kickass.com
 127.0.0.1 s1.qwant.com
 127.0.0.1 s2.qwant.com
 127.0.0.1 search.aol.com
+127.0.0.1 tse4.mm.bing.net
+127.0.0.1 thafd.bing.com
 
 ### Social Networks
 127.0.0.1 www.instagram.com
