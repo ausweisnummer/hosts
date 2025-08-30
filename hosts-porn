@@ -23,9 +23,10 @@
 ::1  localhost
 
 # [Forced SafeSearch for search engines]
-# * Search engines affected: Brave Search, Bing, DuckDuckGo, Ecosia, Google, StartPage and Yandex.
+# * Search engines affected: Brave Search, DuckDuckGo, Ecosia, Google, StartPage and Yandex.
 # * Thumbnails and that sort of stuff are also blocked for Brave Search, DuckDuckGo, Qwant and
 #   Yahoo Search through the "Non-porn Websites" section.
+# * Bing support for SafeSearch is added but commented out because Bing is blocked altogether.
 216.239.38.120 google.com www.google.com
 216.239.38.120 google.ad www.google.ad
 216.239.38.120 google.ae www.google.ae
@@ -219,9 +220,9 @@
 216.239.38.120 google.co.zm www.google.co.zm
 216.239.38.120 google.co.zw www.google.co.zw
 216.239.38.120 google.cat www.google.cat
-204.79.197.220 bing.com www.bing.com
-204.79.197.220 www2.bing.com
-204.79.197.220 www3.bing.com
+# 204.79.197.220 bing.com www.bing.com
+# 204.79.197.220 www2.bing.com
+# 204.79.197.220 www3.bing.com
 191.235.126.53 duckduckgo.com
 15.197.160.66 search.brave.com
 213.180.193.56 yandex.az
@@ -14074,6 +14075,10 @@ l27.0.0.1 www.kickass.com
 127.0.0.1 tse4.mm.bing.net
 127.0.0.1 thafd.bing.com
 127.0.0.1 th.bing.com
+127.0.0.1 bing.com
+127.0.0.1 www.bing.com
+127.0.0.1 www2.bing.com
+127.0.0.1 www3.bing.com
 
 ### Social Networks
 127.0.0.1 www.instagram.com
