@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 import json
+import os
 import re
 
 from pathlib import Path
@@ -90,5 +91,15 @@ except FileNotFoundError:
 except OSError as os_err:
     print(
         f"Se produjo un error del sistema al crear el archivo {out_filename}"
+        f"\nError encontrado: {os_err}."
+    )
+
+try:
+    os.remove(keiyoushi_filename)
+    os.remove(hosts_filename)
+except OSError as os_err:
+    print(
+        "Se produjo un error del sistema al borrar uno de los archivos"
+        f" {out_filename}"
         f"\nError encontrado: {os_err}."
     )
